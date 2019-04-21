@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="dbo_skill.xsd" generated="2019-04-21T01:26:21">
+<dbo_skill>
+<skill_id>7</skill_id>
+<skill>Data Analysis</skill>
+<detail_id>4</detail_id>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>11</skill_id>
+<skill>Circuit Implementation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>12</skill_id>
+<skill>Data Exploration</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1885</skill_id>
+<skill>Data Visualization</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1886</skill_id>
+<skill>Dimensionality Reduction</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1887</skill_id>
+<skill>Classification</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1888</skill_id>
+<skill>Clustering</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1889</skill_id>
+<skill>Regression</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1890</skill_id>
+<skill>Deep Learning</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1891</skill_id>
+<skill>Time Domain Analysis</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1892</skill_id>
+<skill>Filter Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1893</skill_id>
+<skill>Signal Modeling</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1894</skill_id>
+<skill>Source Separation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1895</skill_id>
+<skill>Geometric Transforms</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1896</skill_id>
+<skill>Segmentation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1897</skill_id>
+<skill>Feature Extraction</skill>
+<detail_id>5</detail_id>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1898</skill_id>
+<skill>Freq. Domain Analysis</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1899</skill_id>
+<skill>Object Recognition</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1900</skill_id>
+<skill>Functional Programming</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1901</skill_id>
+<skill>Procedural Programming</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1902</skill_id>
+<skill>Object-Oriented Programming</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1903</skill_id>
+<skill>Unit Test</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1904</skill_id>
+<skill>UI Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1905</skill_id>
+<skill>Analog Circuit Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1906</skill_id>
+<skill>Logic Circuit Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1907</skill_id>
+<skill>Communication Circuit Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1908</skill_id>
+<skill>Waveguide Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1909</skill_id>
+<skill>Microstrip Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1910</skill_id>
+<skill>Feedback Control Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1911</skill_id>
+<skill>Freq. Response Analysis</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1912</skill_id>
+<skill>Robustness Analysis</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1913</skill_id>
+<skill>Noise Modeling</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1914</skill_id>
+<skill>Feature Selection</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1915</skill_id>
+<skill>Object Tracking</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1916</skill_id>
+<skill>Analog Circuit Implementation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1917</skill_id>
+<skill>Thresholding</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1918</skill_id>
+<skill>Point Cloud Registration</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1923</skill_id>
+<skill>Depth Perception</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1936</skill_id>
+<skill>Spatial Filters</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1938</skill_id>
+<skill>Image Transforms</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1940</skill_id>
+<skill>Database Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1941</skill_id>
+<skill>Data Manipulation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1942</skill_id>
+<skill>Data Conversion</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1943</skill_id>
+<skill>Data Migration</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1944</skill_id>
+<skill>End-user Programming</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1946</skill_id>
+<skill>Version Control</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1948</skill_id>
+<skill>Signal Transform</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1950</skill_id>
+<skill>Model Evaluation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1951</skill_id>
+<skill>System Visualization</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1952</skill_id>
+<skill>Signal Visualization</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1953</skill_id>
+<skill>Business Intelligence</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1954</skill_id>
+<skill>Web Development</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1955</skill_id>
+<skill>Signal Processing</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1956</skill_id>
+<skill>Image Processing</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1957</skill_id>
+<skill>Pattern Recognition</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1958</skill_id>
+<skill>Data Science</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1959</skill_id>
+<skill>Computer Vision</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1960</skill_id>
+<skill>Machine Vision</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1961</skill_id>
+<skill>Machine Learning</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1962</skill_id>
+<skill>Software Engineering</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1963</skill_id>
+<skill>Control System Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1964</skill_id>
+<skill>Antenna Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1965</skill_id>
+<skill>Circuit Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1966</skill_id>
+<skill>Microwave Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1967</skill_id>
+<skill>Electronics</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1969</skill_id>
+<skill>Optimization</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1970</skill_id>
+<skill>SIFT</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1971</skill_id>
+<skill>SURF</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1972</skill_id>
+<skill>HOG</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1973</skill_id>
+<skill>LoG</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1974</skill_id>
+<skill>Hough Transform</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1975</skill_id>
+<skill>Connected Component Analysis</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1976</skill_id>
+<skill>Watershed</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1977</skill_id>
+<skill>SVM</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1978</skill_id>
+<skill>Artificial Neural Network (ANN)</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1979</skill_id>
+<skill>Naïve Bayes</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1980</skill_id>
+<skill>Decision Tree</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1981</skill_id>
+<skill>Random Forest</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1982</skill_id>
+<skill>k-Means</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1983</skill_id>
+<skill>Fuzzy C-means</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1984</skill_id>
+<skill>PCA</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1985</skill_id>
+<skill>ICA</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1986</skill_id>
+<skill>Python</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1987</skill_id>
+<skill>MATLAB</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1988</skill_id>
+<skill>C/C++</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1989</skill_id>
+<skill>JavaScript</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1990</skill_id>
+<skill>Visual Basic</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1991</skill_id>
+<skill>SQL</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1992</skill_id>
+<skill>SAS</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1993</skill_id>
+<skill>MATLAB&apos;s Computer Vision Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1994</skill_id>
+<skill>NumPy</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1995</skill_id>
+<skill>SciPy</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1996</skill_id>
+<skill>OpenCV</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1997</skill_id>
+<skill>Scikit-learn</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1998</skill_id>
+<skill>Keras</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>1999</skill_id>
+<skill>TensorFlow</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2000</skill_id>
+<skill>MATLAB&apos;s Image Processing Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2001</skill_id>
+<skill>MATLAB&apos;s Signal Processing Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2002</skill_id>
+<skill>Pandas</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2003</skill_id>
+<skill>Matplotlib</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2004</skill_id>
+<skill>Seaborn</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2005</skill_id>
+<skill>MATLAB&apos;s Statistics and ML Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2006</skill_id>
+<skill>MATLAB&apos;s Control System Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2007</skill_id>
+<skill>Simulink Control Design</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2008</skill_id>
+<skill>AWR Microwave</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2009</skill_id>
+<skill>ANSYS HFSS</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2010</skill_id>
+<skill>CST Studio</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2011</skill_id>
+<skill>LabView</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2012</skill_id>
+<skill>SPICE</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2014</skill_id>
+<skill>Tableau</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2015</skill_id>
+<skill>Visual Studio</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2016</skill_id>
+<skill>MS Office</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2017</skill_id>
+<skill>MS Excel</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2018</skill_id>
+<skill>MS Access</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2020</skill_id>
+<skill>Adobe Photoshop</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2021</skill_id>
+<skill>Adobe Premier</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2022</skill_id>
+<skill>VBA</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2023</skill_id>
+<skill>Finite-element Method</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2024</skill_id>
+<skill>Scattering Matrix</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2025</skill_id>
+<skill>Uniform Cost Search</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2026</skill_id>
+<skill>A-star Search</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2027</skill_id>
+<skill>LR</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2028</skill_id>
+<skill>k-NN</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2029</skill_id>
+<skill>Convolutional Neural Network (CNN)</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2030</skill_id>
+<skill>Git</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2031</skill_id>
+<skill>Kernel PCA</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2032</skill_id>
+<skill>Wavelet</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2033</skill_id>
+<skill>Fourier Transform</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2034</skill_id>
+<skill>ARMA</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2035</skill_id>
+<skill>DoG</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2036</skill_id>
+<skill>Otsu&apos;s</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2037</skill_id>
+<skill>ROC</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2038</skill_id>
+<skill>Scatter Plot</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2039</skill_id>
+<skill>Parallel Plot</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2040</skill_id>
+<skill>Histogram</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2041</skill_id>
+<skill>Poincare Plot</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2042</skill_id>
+<skill>Routh-Hurwitz</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2043</skill_id>
+<skill>L1/L2</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2044</skill_id>
+<skill>Gaussian Mixture Model (GMM)</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2045</skill_id>
+<skill>Spectrogram</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2046</skill_id>
+<skill>Laplace Transform</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2047</skill_id>
+<skill>Z Transform</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2048</skill_id>
+<skill>Root Locus</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2049</skill_id>
+<skill>Bode Diagram</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2050</skill_id>
+<skill>Nyquist Plot</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2051</skill_id>
+<skill>Signal-flow Graph</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2052</skill_id>
+<skill>VS Code</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2053</skill_id>
+<skill>Jupyter</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2054</skill_id>
+<skill>Kalman Filter</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2055</skill_id>
+<skill>Scikit-image</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2056</skill_id>
+<skill>SharePoint</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2057</skill_id>
+<skill>Expectation Maximization (EM)</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2058</skill_id>
+<skill>Dynamic Time Warping</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2061</skill_id>
+<skill>Waveguide Analysis</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2063</skill_id>
+<skill>Artificial Intelligence</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2064</skill_id>
+<skill>Gibbs Sampling</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2065</skill_id>
+<skill>Bayesian Network</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2067</skill_id>
+<skill>Graph Search</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2068</skill_id>
+<skill>Alpha-Beta Pruning</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2069</skill_id>
+<skill>Hidden Markov Models (HMM)</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2070</skill_id>
+<skill>Genetic Algorithm</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2071</skill_id>
+<skill>Heuristic Cost Search</skill>
+<category_id>13</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2072</skill_id>
+<skill>Task Automation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2073</skill_id>
+<skill>PowerApps</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2074</skill_id>
+<skill>Collaborative BI</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2075</skill_id>
+<skill>Application Integration</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2076</skill_id>
+<skill>HTML</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2080</skill_id>
+<skill>CSS</skill>
+<category_id>12</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2081</skill_id>
+<skill>AWS</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2082</skill_id>
+<skill>MySQL</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2083</skill_id>
+<skill>MS SQL Server</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2084</skill_id>
+<skill>Evolutionary Computation</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2085</skill_id>
+<skill>MATLAB&apos;s Deep Learning Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2088</skill_id>
+<skill>JSON</skill>
+<category_id>14</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2091</skill_id>
+<skill>MATLAB&apos;s DSP System Toolbox</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2092</skill_id>
+<skill>MS Azure</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2098</skill_id>
+<skill>Google Cloud</skill>
+<category_id>16</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2099</skill_id>
+<skill>Data Modeling</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2100</skill_id>
+<skill>Software Development</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2101</skill_id>
+<skill>Data Engineering</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2102</skill_id>
+<skill>Relational Database Design</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2103</skill_id>
+<skill>Information Flow</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2104</skill_id>
+<skill>Query Optimization</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2105</skill_id>
+<skill>Data Integration</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2106</skill_id>
+<skill>Control Engineering</skill>
+<category_id>15</category_id>
+</dbo_skill>
+<dbo_skill>
+<skill_id>2107</skill_id>
+<skill>Robotics</skill>
+<category_id>15</category_id>
+</dbo_skill>
+</dataroot>
